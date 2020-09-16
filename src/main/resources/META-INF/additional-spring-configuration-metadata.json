@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "aplicacao.pleito",
+      "type": "java.lang.Integer",
+      "description": "Código do pleito."
+    },
+    {
+      "name": "aplicacao.eleicao",
+      "type": "java.lang.Integer",
+      "description": "Código da eleição."
+    },
+    {
+      "name": "aplicacao.processo",
+      "type": "java.lang.Integer",
+      "description": "Código do processo."
+    },
+    {
+      "name": "aplicacao.etapas-ativas",
+      "type": "java.lang.Integer[]",
+      "description": "Indica quais etapas estão com as verificações ativas."
+    },
+    {
+      "name": "aplicacao.turno",
+      "type": "java.lang.Integer",
+      "description": "Turno atual."
+    }
+  ]
+}
