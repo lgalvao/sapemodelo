@@ -11,7 +11,7 @@
     <groupId>sesel</groupId>
     <artifactId>sapemodelo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sapemodelo</name>
+    <name>sape</name>
     <description>Sape Modelo</description>
 
     <properties>
